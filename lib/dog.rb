@@ -10,5 +10,3 @@ end
 
 lassie = Dog.now
 lassie.name = "Lassie"
-
-lassie.name
